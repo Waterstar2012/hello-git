@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Git!" << endl;
+	
+	cout << "why can not delete" << endl;
 }
